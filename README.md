@@ -1,3 +1,4 @@
+<img width="225" height="225" alt="Earth" src="https://github.com/user-attachments/assets/5175b057-36ba-4d62-89dc-a07fc03515e9" />
 <!DOCTYPE html>
 <html lang="en">
 <head>
